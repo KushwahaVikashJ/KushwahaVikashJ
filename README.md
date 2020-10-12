@@ -1,4 +1,4 @@
-### Hey, I'M [Vikash](https://kushwahavikash.web.app/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hey, I'm [Vikash](https://kushwahavikash.web.app/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🌱 I’m currently learning MERN Stack.
 - 🤔 I’m looking for a internship as a Frontend or Backend Developer.
