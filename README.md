@@ -9,7 +9,7 @@
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 [1]: https://twitter.com/KushwahaVikash_
-[2]: linkedin.com/in/kushwaha-vikash-323144170/
+[2]: https://www.linkedin.com/in/kushwaha-vikash-323144170/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KushwahaVikashJ)](https://github.com/KushwahaVikashJ/github-readme-stats)
 
