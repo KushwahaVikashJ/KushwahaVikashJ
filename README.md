@@ -1,7 +1,7 @@
 ### Hey, I'm [Vikash](https://kushwahavikash.web.app/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🌱 I’m currently learning MERN Stack.
-- 🤔 I’m looking for a job as a Frontend Developer.
+- 🤔 I’m looking for a job as a React Developer.
 - 💬 Ask me about anything related to React & Node. 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
