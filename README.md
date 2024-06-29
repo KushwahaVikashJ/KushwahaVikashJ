@@ -1,15 +1,18 @@
-### Hey, I'm [Vikash](https://kushwahavikash.web.app/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🌱 I’m currently learning MERN Stack.
-- 🤔 I’m looking for a job as a React Developer.
-- 💬 Ask me about anything related to React & Node. 
+# Hi, I'm Vikash! 👋
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-[1]: https://twitter.com/KushwahaVikash_
-[2]: https://www.linkedin.com/in/kushwaha-vikash-323144170/
+## 🚀 About Me
+Experienced software engineer with a focus on building engaging and accessible digital experiences.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KushwahaVikashJ)](https://github.com/KushwahaVikashJ/github-readme-stats)
 
-![Kushwaha Vikash github stats](https://github-readme-stats.vercel.app/api?username=KushwahaVikashJ&show_icons=true)
+## 🛠 Skills
+Javascript, HTML, CSS, React, Next.js, Node, Typescript...
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.vikashkushwaha.dev/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushwaha-vikash)
+
+
+
